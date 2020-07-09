@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**pixeldesu/pixeldesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on:
+* [Retrospring](https://github.com/retrospring/retrospring), a social Q/A platform
+* [PangyaTools](https://github.com/PangyaTools), a toolset to keep defunct versions of the game [Pangya](https://en.wikipedia.org/wiki/PangYa) alive
+* [DeckHack](https://github.com/deckhack), a community of TweetDeck enthusiasts and extension developers
+* ...and many, many more things. _If I don't build something, I take something apart!_
 
-Here are some ideas to get you started:
+📫 How to reach me:
+* 🐘 [pixel@desu.social](https://desu.social/@pixel)
+* 🐦 [@pixeldesu](https://twitter.com/pixeldesu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 I enjoy playing games (and taking them apart), especially including 🎵
+
+❤️ I'm looking for [sponsors](https://github.com/sponsors/pixeldesu) to keep my projects maintained and operational
