@@ -3,8 +3,7 @@
 🔭 I’m currently working on:
 * [TYPO3](https://typo3.org), a free/libre open source CMS
 * [Retrospring](https://github.com/retrospring/retrospring), a social Q/A platform
-* [Retreev](https://github.com/retreev), a toolset to keep defunct versions of the game [Pangya](https://en.wikipedia.org/wiki/PangYa) alive
-* [DeckHack](https://github.com/deckhack), a community of TweetDeck enthusiasts and extension developers
+* [Retreev](https://github.com/retreev), a community to keep defunct versions of the game [Pangya](https://en.wikipedia.org/wiki/PangYa) alive
 * ...and many, many more things. _If I don't build something, I take something apart!_
 
 📫 How to reach me:
