@@ -1,15 +1,16 @@
-### Hi there 👋
+<p align="center">
+  <br />
+  <img src="https://pixeldesu-assets.fra1.cdn.digitaloceanspaces.com/stickers/poly/happy/256.png">
+  <br />
+  <strong>Hey!</strong>
+  I'm <a href="https://pixelde.su">Pixel</a>.
+</p>
+<br /><hr />
 
-🔭 I’m currently working on:
-* [TYPO3](https://typo3.org), a free/libre open source CMS
-* [Retrospring](https://github.com/retrospring/retrospring), a social Q/A platform
-* [Retreev](https://github.com/retreev), a community to keep defunct versions of the game [Pangya](https://en.wikipedia.org/wiki/PangYa) alive
-* ...and many, many more things. _If I don't build something, I take something apart!_
+<p align="center">
+  <b><a href="https://github.com/Retrospring">Retrospring</a></b> maintainer, <b><a href="https://github.com/typo3/typo3">TYPO3</a></b> Core Merger, game reverse-engineering and more (non-)professional open source endeavours!
+</p>
 
-📫 How to reach me:
-* 🐘 [pixel@desu.social](https://desu.social/@pixel)
-* 🐦 [@pixeldesu](https://twitter.com/pixeldesu)
-
-🎮 I enjoy playing games (and taking them apart), especially including 🎵
-
-❤️ I'm looking for [sponsors](https://github.com/sponsors/pixeldesu) to keep my projects maintained and operational
+<p align="center">
+  Feel free to reach out to me on <a href="https://desu.social/@pixel">the Fediverse</a> or <a href="https://bsky.app/profile/pixelde.su">Bluesky</a></b>.
+</p>
